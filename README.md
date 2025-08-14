@@ -61,7 +61,6 @@ Este proyecto corresponde a la **segunda fase** del reto de análisis de cancela
 ┃ ┣ modelo_randomforest.pkl
 ┃ ┣ modelo_logistic.pkl
 ┣ 📂 notebooks
-┃ ┣ TelecomX_LATAM.ipynb
 ┃ ┣ telecomx-latam-2.ipynb
 ┣ 📜 README.md
 ```
