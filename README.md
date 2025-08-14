@@ -54,12 +54,14 @@ Este proyecto corresponde a la **segunda fase** del reto de análisis de cancela
 📦 telecomx-churn-prediction
 ┣ 📂 data
 ┃ ┣ telecomx-data-limpio.csv
-┣ 📂 notebooks
-┃ ┣ TelecomX_LATAM.ipynb
-┃ ┣ telecomx-latam-2.ipynb
+┣ 📂 images
+┃ ┣ telecomx-data-limpio.csv
 ┣ 📂 models
 ┃ ┣ modelo_randomforest.pkl
 ┃ ┣ modelo_logistic.pkl
+┣ 📂 notebooks
+┃ ┣ TelecomX_LATAM.ipynb
+┃ ┣ telecomx-latam-2.ipynb
 ┣ 📜 README.md
 ```
 ---
