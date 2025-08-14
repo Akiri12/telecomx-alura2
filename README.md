@@ -55,7 +55,8 @@ Este proyecto corresponde a la **segunda fase** del reto de análisis de cancela
 ┣ 📂 data
 ┃ ┣ telecomx-data-limpio.csv
 ┣ 📂 images
-┃ ┣ telecomx-data-limpio.csv
+┃ ┣ heatmap0.2
+┃ ┣ heatmap-matriz-correlacion-1
 ┣ 📂 models
 ┃ ┣ modelo_randomforest.pkl
 ┃ ┣ modelo_logistic.pkl
