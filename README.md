@@ -2,7 +2,7 @@
 
 ## 📖 Descripción del Proyecto
 
-Este proyecto corresponde a la **segunda fase** del reto de análisis de cancelación de clientes para la empresa **ficticia** **Telecom X** y forman parte de un ejercicio académico del programa **ONE – Oracle Next Education** en colaboración con **Alura Latam**. Después de un análisis exploratorio inicial, ahora el objetivo es **predecir qué clientes tienen mayor probabilidad de cancelar sus servicios** mediante modelos de **Machine Learning**.  
+Este proyecto corresponde a la **segunda fase** del reto de análisis de cancelación de clientes para la empresa **ficticia** **Telecom X** y forman parte de un ejercicio académico. Después de un análisis exploratorio inicial, ahora el objetivo es **predecir qué clientes tienen mayor probabilidad de cancelar sus servicios** mediante modelos de **Machine Learning**.  
 
 ---
 
