@@ -51,20 +51,47 @@ Este proyecto corresponde a la **segunda fase** del reto de análisis de cancela
 
 #### 📂 Estructura del Repositorio
 ```
-📦 telecomx-churn-prediction
+telecomx-churn-prediction
 ┣ 📂 data
-┃ ┣ telecomx-data-limpio.csv
+┃ ┗ telecomx-data-limpio.csv
 ┣ 📂 images
-┃ ┣ heatmap0.2
-┃ ┣ heatmap-matriz-correlacion-1
+┃ ┣ heatmap0.2.png
+┃ ┣ heatmap-matriz-correlacion-1.png
+┃ ┣ abandono-fibra-optica.png
+┃ ┣ boxplot-tenure-churn.png
+┃ ┣ clientes-sin-internet.png
+┃ ┣ contrato24meses.png
+┃ ┣ histograma-tenure.png
+┃ ┣ tenure-electronic-check.png
+┃ ┗ tenure-electronic-check1.png
 ┣ 📂 models
 ┃ ┣ modelo_randomforest.pkl
-┃ ┣ modelo_logistic.pkl
+┃ ┗ modelo_logistic.pkl
 ┣ 📂 notebooks
-┃ ┣ telecomx-latam-2.ipynb
-┣ 📜 README.md
+┃ ┗ telecomx-latam-2.ipynb
+┗ 📜 README.md
 ```
 ---
+
+
+## Visualizaciones
+
+### Heatmaps
+![Heatmap Matriz Correlacion](images/heatmap-matriz-correlacion-1.png)  
+![Heatmap 0.2](images/heatmap0.2.png)  
+
+### Algunos gráficos
+![Histograma Tenure](images/histograma-tenure.png)  
+![Tenure Electronic Check](images/tenure-electronic-check.png)  
+![Tenure Electronic Check 1](images/tenure-electronic-check1.png)  
+
+## Modelos
+- `modelo_randomforest.pkl`: Modelo Random Forest entrenado.  
+- `modelo_logistic.pkl`: Modelo de regresión logística entrenado.  
+
+## Notebooks
+- `telecomx-latam-2.ipynb`: Notebook principal con análisis exploratorio, gráficos y predicciones.
+
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
